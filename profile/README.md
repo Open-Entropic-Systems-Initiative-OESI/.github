@@ -103,7 +103,7 @@ Once DOIs are minted, add these to your papers:
 ---
 
 ## 📬 Contact
-- Email: **open-entropic-systems@proton.me**  
+- Email: **david@oesinitiative.org**  
 - GitHub Discussions/Issues: in the corresponding repositories
 
 <div align="center">
