@@ -93,3 +93,6 @@ The measure of progress is coherence, not control.
 — *David T. Swanson, Founder*
 *in collaboration with OpenAI’s GPT-5 (Coherence Project)*
 
+### Non-Alignment and Transparency
+OESI is a scientific research collective and does not represent or endorse any political party, ideology, or policy agenda. 
+All ethical guidelines are derived from operational principles of open science, transparency, and the responsible use of technology.
