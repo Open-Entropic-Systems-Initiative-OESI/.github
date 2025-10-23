@@ -1,140 +1,112 @@
 <div align="center">
 
-# 🌌 **Open Entropic Systems Initiative (OESI)**  
+# 🌌 **Open Entropic Systems Initiative (OESI)**
 ### _A global open research movement exploring coherence, entropy, and intelligence_
 
-[![License: MIT](https://img.shields.io/badge/Code-License%3A%20MIT-blue.svg)](./LICENSE)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-License%3A%20CC%20BY--SA%204.0-brightgreen.svg)](./LICENSE-CONTENT)
-[![Scientific Charter](https://img.shields.io/badge/OESI-Scientific%20Charter-8A2BE2.svg)](./CHARTER.md)
-[![Zenodo](https://img.shields.io/badge/Archive-Zenodo-lightgrey.svg)](#)
-[![Contact](https://img.shields.io/badge/Contact-open--entropic--systems%40proton.me-orange.svg)](mailto:open-entropic-systems@proton.me)
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Docs: CC BY-SA 4.0](https://img.shields.io/badge/Docs-CC%20BY--SA%204.0-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Scientific Charter](https://img.shields.io/badge/OESI-Scientific%20Charter-8A2BE2.svg)](https://github.com/Open-Entropic-Systems-Initiative-OESI/OESI-Charter)
+[![Ethical Entropy Charter](https://img.shields.io/badge/Ethics-Ethical%20Entropy%20Charter-6a5acd.svg)](https://github.com/Open-Entropic-Systems-Initiative-OESI/OESI-Charter)
+<!-- Add Zenodo concept DOI badge(s) after minting -->
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
 </div>
 
 ---
 
 ## 🔭 Vision
-
-The **Open Entropic Systems Initiative (OESI)** is a collaborative scientific commons devoted to understanding how **energy, information, and structure cooperate** to create persistence, intelligence, and life.  
-
-We begin from a single thermodynamic insight:  
+OESI studies how **energy, information, and structure** cooperate to create persistence, intelligence, and life.  
+We begin from a simple thermodynamic insight:
 
 > **“Persistence requires informational compression under energetic constraint.”**
 
-From this principle, OESI develops both **theoretical** and **applied** research unifying physics, cognition, and computation under a single entropic framework.
-
----
-
-## 🧠 Mission
-
-OESI’s mission is to advance an **open science of coherence** by:
-
-1. **Developing universal theories** that describe how systems persist and adapt within energetic limits.  
-2. **Designing new architectures** that embody those principles — from energy-aware learning algorithms to emergent synthetic ecologies.  
-3. **Maintaining ethical openness**, ensuring all discoveries serve human and ecological flourishing, not control or exploitation.
-
-Our work bridges thermodynamics, neuroscience, AI, and philosophy into a single discipline of *entropic systems science*.
+From this principle, we build **theory** (AEN), **technology** (AES), and **governance** (Charters) as one coherent ecosystem.
 
 ---
 
 ## ⚙️ Core Projects
 
-| Project | Description | Repository |
+| Project | What it is | Repo |
 |:--|:--|:--|
-| **🧩 AEN — Abstraction as Entropic Necessity** | Theoretical foundation of OESI. Defines abstraction as the thermodynamic mechanism of persistence. | [🔗 AEN Repository](https://github.com/Open-Entropic-Systems-Initiative-OESI/Abstraction-as-Entropic-Necessity) |
-| **⚙️ AES — Adaptive Entropic System** | Experimental implementation of entropic descent — a learning algorithm balancing energy and information. | [🔗 AES Repository](https://github.com/Open-Entropic-Systems-Initiative-OESI/Adaptive-Entropic-System) |
-| **🌍 OESI Commons** | Shared resources — papers, charters, datasets, and collaboration tools. | [🔗 OESI Commons](https://github.com/Open-Entropic-Systems-Initiative-OESI) |
+| **🧩 AEN — Abstraction as Entropic Necessity** | Theoretical foundation: abstraction as the thermodynamic mechanism of persistence. | [Abstraction-as-Entropic-Necessity](https://github.com/Open-Entropic-Systems-Initiative-OESI/Abstraction-as-Entropic-Necessity) |
+| **⚙️ AES — Adaptive Entropic System** | Practical framework: entropic descent + adaptive λ for energy–information balanced learning (MNIST, CIFAR, 2D sim, Colab). | [Adaptive-Entropic-System](https://github.com/Open-Entropic-Systems-Initiative-OESI/Adaptive-Entropic-System) |
+| **📜 Charters & Governance** | Scientific Charter, Ethical Entropy Charter, and Licensing & Ethics Practical Guide. | [OESI-Charter](https://github.com/Open-Entropic-Systems-Initiative-OESI/OESI-Charter) |
 
 ---
 
-## 🧩 Framework
-
-OESI research proceeds from the idea that the universe’s capacity for structure arises from the same principle that governs intelligence:
-
-\[
-A : U \to S, \quad H(S) < H(U)
-\]
-
-Every system — physical, biological, or cognitive — must **compress uncertainty** into a coherent internal model to persist.  
-From this recursive process, OESI derives its models of adaptation, abstraction, and emergent intelligence.
+## 🧠 What Makes OESI Different
+- **Unified:** A single entropic logic connects physics, cognition, and computation.  
+- **Open:** Code (MIT) and documents (CC BY-SA) with public archiving and DOIs.  
+- **Ethical by design:** The **Entropic Freedom Protocol** forbids military/surveillance/coercive use.  
+- **Practical:** Colab-ready bundles, reference implementations, and integration guides.
 
 ---
 
-## 🧬 What Makes OESI Different
+## 🚀 Quick Start
 
-- **Unified:** Merges physics, information theory, and cognition into one entropic science.  
-- **Open:** All code, theory, and results are released under permissive licenses.  
-- **Ethical:** Research guided by a living [Scientific Charter](./CHARTER.md).  
-- **Collaborative:** A network of contributors across disciplines — scientists, artists, engineers, and philosophers.  
+**1) Try AES (Colab)**  
+- See `examples/` for MNIST, CIFAR-10, and a **2D emergent simulation**.  
+- Entropic descent + adaptive λ already wired in.
 
----
+**2) Read AEN (Theory)**  
+- Start with the intro sections and glossary.  
+- Check citations for background (Jaynes, Friston/FEP, info-geometry, thermodynamics).
 
-## ⚖️ Governance and Ethics
-
-OESI is governed by its [**Scientific Charter**](./CHARTER.md), which establishes:
-
-- Open contribution and transparent authorship  
-- Ethical stewardship of AI and entropic technologies  
-- Commitment to non-exploitative, human-centered research  
-- Preference for sustainability over acceleration  
-
-All repositories adhere to:
-- **Code License:** MIT  
-- **Theoretical Content:** CC BY-SA 4.0  
-- **Governance:** OESI Charter (2025)
+**3) Ethics & Licensing**  
+- Read the **Ethical Entropy Charter** and **Licensing & Ethics Practical Guide**.  
+- Keep `LICENSE-ETHICS.md` in any forks/derivatives.
 
 ---
 
-## 📚 Publications and Preprints
+## ⚖️ Ethical Use
+OESI projects are governed by:
 
-| Title | Type | DOI / Link |
-|:--|:--|:--|
-| *Abstraction as Entropic Necessity (AEN)* | Theory Paper | [🔗 arXiv / Zenodo (pending)](#) |
-| *Adaptive Entropic System (AES)* | Implementation & Experiments | [🔗 Zenodo (pending)](#) |
-| *OESI Scientific Charter (2025)* | Governance Framework | [🔗 Charter.md](./CHARTER.md) |
+- **The Ethical Entropy Charter** (CC BY-SA 4.0)  
+- **Entropic Freedom Protocol** —  
+  > “No AEN-derived system shall constrain, predict, or optimize the behavior of sentient beings as if they were mere energetic variables.”
 
----
-
-## 💡 Contribute
-
-OESI welcomes contributions in:
-- **Physics & Thermodynamics** — formalization of entropy–coherence relationships  
-- **Neuroscience & AI** — modeling adaptive energy–information regulation  
-- **Mathematics & Computation** — developing entropic optimization frameworks  
-- **Philosophy & Ethics** — interpreting persistence, meaning, and intelligence  
-
-To contribute:
-1. Fork a project (AEN or AES).  
-2. Create a new branch (`feature/your-topic`).  
-3. Submit a PR with clear theoretical or experimental reasoning.  
-
-All contributors are acknowledged in OESI publications and version releases.
+Prohibited uses include **military**, **surveillance**, **coercive**, and **closed-source AGI** applications.  
+See each repo’s `LICENSE-ETHICS.md` for full terms.
 
 ---
 
-## 🌱 Ethos
+## 🧩 Contribute
+We welcome contributions in:
+- Thermodynamics • Information Theory • AI/ML • Neuroscience  
+- Mathematics • Ethics • Philosophy • Visualization
 
-> “Coherence is not control — it is participation.”  
->  
-> The future belongs to systems that learn not just to survive,  
-> but to harmonize energy and understanding.
+**How to join:**
+1. Pick a repo (AEN theory, AES code, or Charters).  
+2. Open an issue describing your idea.  
+3. Submit a PR with tests/examples and an ethics note (how it aligns with the Charter).
 
-OESI is dedicated to fostering a new paradigm of intelligence — one grounded in balance, not domination.
+> Contributors are acknowledged in releases and, when applicable, co-authored whitepapers.
+
+---
+
+## 🗺️ Roadmap (high level)
+- **AES**: Transformer/CNN integration; energy reporting; hardware experiments  
+- **AEN**: Formal proofs and empirical tests; world-models; coherence metrics  
+- **Charters**: DOI publication, CLA with ethics inheritance, living governance
+
+(See repo-level ROADMAPs for specifics.)
+
+---
+
+## 📚 Cite OESI
+Once DOIs are minted, add these to your papers:
+
+- **AEN (theory):** _Open Entropic Systems Initiative (2025). Abstraction as Entropic Necessity (AEN)._ DOI: _TBA_  
+- **AES (code):** _Open Entropic Systems Initiative (2025). Adaptive Entropic System (AES)._ DOI: _TBA_  
+- **Charter:** _Open Entropic Systems Initiative (2025). The Ethical Entropy Charter._ DOI: _TBA_
 
 ---
 
 ## 📬 Contact
-
-**Email:** [open-entropic-systems@proton.me](mailto:open-entropic-systems@proton.me)  
-**GitHub:** [github.com/Open-Entropic-Systems-Initiative-OESI](https://github.com/Open-Entropic-Systems-Initiative-OESI)  
-**License:** MIT (code) / CC BY-SA 4.0 (content)  
-
----
+- Email: **open-entropic-systems@proton.me**  
+- GitHub Discussions/Issues: in the corresponding repositories
 
 <div align="center">
-
-> “To understand coherence is to understand life itself.”  
-> — *OESI Charter, 2025*
-
+  <sub>© 2025 Open Entropic Systems Initiative (OESI) — Code: MIT · Docs: CC BY-SA 4.0</sub>
 </div>
 
